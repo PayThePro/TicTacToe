@@ -1,0 +1,10 @@
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\bin\Debug\TicTacToeSpil.exe.config
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\bin\Debug\TicTacToeSpil.exe
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\bin\Debug\TicTacToeSpil.pdb
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\bin\Debug\ConsoleInput.dll
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\bin\Debug\ConsoleInput.pdb
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\obj\Debug\TicTacToeSpil.csproj.AssemblyReference.cache
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\obj\Debug\TicTacToeSpil.csproj.CoreCompileInputs.cache
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\obj\Debug\TicTacToeSpil.csproj.CopyComplete
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\obj\Debug\TicTacToeSpil.exe
+C:\Users\kress\source\repos\TicTacToeSpil\TicTacToeSpil\obj\Debug\TicTacToeSpil.pdb
