@@ -33,6 +33,9 @@ namespace TicTacToeSpil
             return moves[index];
         }
 
+        /// <summary>
+        /// Returns who has won the game. Null if the game isn't finished.
+        /// </summary>
         public Player? CheckWinConditions()
         {
             if (moves[0] == moves[1] && moves[0] == moves[2])
